@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# git init
+# git add .
+# git commit -m "initial commit"
+# git remote add origin https://github.com/travisjs/multi-docker.git
+# git remote -v
+# git push origin master
