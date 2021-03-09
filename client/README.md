@@ -73,4 +73,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # git commit -m "initial commit"
 # git remote add origin https://github.com/travisjs/multi-docker.git
 # git remote -v
-# git push origin master
+# git push origin main
